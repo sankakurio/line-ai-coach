@@ -1,0 +1,7 @@
+{
+  "name": "line-ai-coach",
+  "version": "1.0.0",
+  "dependencies": {
+    "micro": "^9.3.4"
+  }
+}
